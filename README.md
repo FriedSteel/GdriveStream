@@ -17,6 +17,6 @@ This method allows you to:
 4. Initialize the function:  
 "gdriveStream.stream(mediaLink, APIkey, context);"  
 This function requires 3 parameters:  
-i. "mediaLink" - The link of the video file stored in Google Drive.  
-ii. "APIkey" - Google Drive API key acquired from Step 1.  
-iii. "context" - Context of the activity.  
+i. "mediaLink" - The link of the video file stored in Google Drive (String).  
+ii. "APIkey" - Google Drive API key acquired from Step 1 (String).  
+iii. "context" - Context of the activity (Context).  
