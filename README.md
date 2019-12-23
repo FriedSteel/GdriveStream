@@ -14,9 +14,9 @@ This method allows you to:
 3. Call the GdriveStream class in your activity:  
 "GdriveStream gdriveStream = new GdriveStream();"
 
-4. Initialize the function:
+4. Initialize the function:  
 "gdriveStream.stream(mediaLink, APIkey, context);"
-This function requires 3 parameters:
-i. "mediaLink" - The link of the video file stored in Google Drive.
-ii. "APIkey" - Google Drive API key acquired from Step 1.
-iii. "context" - Context of the activity.
+This function requires 3 parameters:  
+i. "mediaLink" - The link of the video file stored in Google Drive.  
+ii. "APIkey" - Google Drive API key acquired from Step 1.  
+iii. "context" - Context of the activity.  
