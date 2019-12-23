@@ -11,7 +11,7 @@ This method allows you to:
 1. Get your Google Drive API Key from https://console.developers.google.com/apis/library/drive.googleapis.com
 
 2. Copy the GdriveStream.java class to your project.
-3. Call the GdriveStream class in your activity: \n
+3. Call the GdriveStream class in your activity:  
 "GdriveStream gdriveStream = new GdriveStream();"
 
 4. Initialize the function:
