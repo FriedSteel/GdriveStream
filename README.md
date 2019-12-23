@@ -15,7 +15,7 @@ This method allows you to:
 "GdriveStream gdriveStream = new GdriveStream();"
 
 4. Initialize the function:  
-"gdriveStream.stream(mediaLink, APIkey, context);"
+"gdriveStream.stream(mediaLink, APIkey, context);"  
 This function requires 3 parameters:  
 i. "mediaLink" - The link of the video file stored in Google Drive.  
 ii. "APIkey" - Google Drive API key acquired from Step 1.  
