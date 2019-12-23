@@ -1,11 +1,9 @@
-package com.princevegeta.nightowl;
-
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.widget.Toast;
 
-public class Test {
+public class GdriveStream {
 
     public void stream(String mediaLink, String APIkey, Context context) {
 
